@@ -1,0 +1,12 @@
+{
+  "name": "LangChain_JS",
+  "type": "module",
+  "target": "ES2020",
+  "module": "nodenext",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "faiss-node": "^0.2.1",
+    "langchain": "^0.0.96",
+    "openai": "^3.3.0"
+  }
+}
